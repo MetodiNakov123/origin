@@ -1,0 +1,11 @@
+commit 821b6fc06bcebf3282dc84249254579f6a0937fb (HEAD -> logging, origin/master, master)
+Author: metodi.nakov@students.finki.ukim.mk <metodi.nakov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:36:53 2018 +0200
+
+    modify l1.txt
+
+commit aaa28167528038f5407d3df20c67a52f76854eac
+Author: metodi.nakov@students.finki.ukim.mk <metodi.nakov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:35:36 2018 +0200
+
+    Initial commit
